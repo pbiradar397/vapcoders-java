@@ -40,7 +40,7 @@ public class Increment {
             case 12:
                 System.out.println("December");
                 break;
-            default:
+        default:
                 System.out.println("Invalid month number entered");
                 break;
 

@@ -13,7 +13,7 @@ public class Person {
          double salary=80000;
          double Ctc=1000000;
 
-         System.out.println("Person detail:\n EmpID:"+EmpId);
+//         System.out.println("Person detail:\n EmpID:"+EmpId);
          System.out.println("Employee Name:" +name +"\nAGE:"+age+"\nDOB:"+DOB+"\nGender:"+gender);
          System.out.println("Are you Indian?:"+india+"\nCGPA:"+CGPA+"\nSalary:"+salary+"\nCOst co company:"+Ctc);
 
