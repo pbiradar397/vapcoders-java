@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        Increment i = new Increment();
-        LoopSwitch mon = new LoopSwitch();
+//        Increment i = new Increment();
+//        LoopSwitch mon = new LoopSwitch();
 
 //        i.playWithOperators();
         //   i.condition();
@@ -14,8 +14,15 @@ public class Main {
 //        PrintNumbersFor p = new PrintNumbersFor();
 //        p.add();
 //
-        PrintReverse r = new PrintReverse();
-        r.reverse();
+//        PrintReverse r = new PrintReverse();
+//        r.reverse();
+
+//        printing patterns
+       Patterns p= new Patterns();
+       p.number();
+
+       ReversePattern rev= new ReversePattern();
+       rev.reverse();
 
 
     }
